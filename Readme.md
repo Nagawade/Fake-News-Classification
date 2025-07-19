@@ -63,7 +63,10 @@ Fake-News-Detection/
 
 
 🙋‍♀️ Author
+
 Mauli Nagawade
+
 GitHub: github.com/Nagawade
+
 Email: [maulinagawade5@.com]
 
