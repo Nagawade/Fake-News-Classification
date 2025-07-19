@@ -27,3 +27,43 @@ This project focuses on detecting **fake news articles** using **Natural Languag
 
 ## 📁 Project Structure
 
+Fake-News-Detection/
+│
+├── data/
+│ └── fake_or_real_news.csv
+│
+├── models/
+│ └── lstm_model.h5
+│
+├── Fake News Detection.ipynb
+│
+│
+├── environment.yml
+├── requirements.txt
+└── README.md
+
+
+| Metric        | Value |
+| ------------- | ----- |
+| **Accuracy**  | 0.90  |
+| **Precision** | 0.90  |
+| **Recall**    | 0.89  |
+| **F1 Score**  | 0.90  |
+| **Loss**      | -0.89 |
+
+
+
+📦 Dataset
+    * Dataset: fake_or_real_news.csv
+
+    * Contains text and label columns
+
+    * Preprocessed and used for binary classification
+
+
+
+🙋‍♀️ Author
+Mauli Nagawade
+GitHub: github.com/Nagawade
+Email: [maulinagawade5@.com]
+
