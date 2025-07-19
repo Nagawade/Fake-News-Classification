@@ -28,19 +28,29 @@ This project focuses on detecting **fake news articles** using **Natural Languag
 ## 📁 Project Structure
 
 Fake-News-Detection/
+
 │
+
 ├── data/
+
 │ └── fake_or_real_news.csv
+
 │
 ├── models/
+
 │ └── lstm_model.h5
+
 │
 ├── Fake News Detection.ipynb
+
 │
 │
 ├── environment.yml
+
 ├── requirements.txt
+
 └── README.md
+
 
 
 | Metric        | Value |
